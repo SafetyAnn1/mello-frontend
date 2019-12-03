@@ -1,24 +1,9 @@
-# README
+# Mello Full Stack Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![MelloScreen](https://user-images.githubusercontent.com/52673792/70012097-f5897680-1538-11ea-94ee-9a3704e6c37e.png)
 
-Things you may want to cover:
+Mello is an interactive web app designed after the web-based Kanban-style list-making application called Trello.  The project goal was to build a full stack version of the app with jQuery, modals, authentication, and drag and drop functionality.
 
-* Ruby version
+## Deployed Version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
