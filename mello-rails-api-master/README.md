@@ -6,4 +6,4 @@ Mello is an interactive web app designed after the web-based Kanban-style list-m
 
 ## Deployed Version
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Visit [mello-rails-meier](https://mello-rails-meier.herokuapp.com/) to deploy the app.
