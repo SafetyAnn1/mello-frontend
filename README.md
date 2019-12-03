@@ -1,3 +1,3 @@
 # Mello-Frontend
 
-![MelloScreen](https://user-images.githubusercontent.com/52673792/70012097-f5897680-1538-11ea-94ee-9a3704e6c37e.png)
+![MelloStaticScreen](https://user-images.githubusercontent.com/52673792/70081116-86aa2d00-15cd-11ea-9064-92040476b908.png)
